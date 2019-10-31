@@ -47,8 +47,7 @@ ZSH_AUTOSUGGEST_STRATEGY=(history)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git zsh-autosuggestions autojump)
-
+plugins=(git zsh-autosuggestions autojump history vscode)
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
